@@ -1,0 +1,11 @@
+49 ?- consult(['c:/Users/renad/Downloads/Task2.pl']).
+true.
+
+50 ?- make.
+true.
+
+51 ?- add_at_the_end(5, [1,2,3,4], Result).
+Result = [1, 2, 3, 4, 5].
+
+52 ?- add_at_the_end(d, [a,b,c], Result).
+Result = [a, b, c, d].
