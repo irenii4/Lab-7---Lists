@@ -1,0 +1,41 @@
+44 ?- consult(['c:/Users/renad/Downloads/shopping.pl']).
+true.
+
+45 ?- start.
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: d.
+coffee
+milk
+chocolate
+apple
+juice
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |: a.
+Enter the item you want to add: |: bread.
+The item has been added
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |: d.
+coffee
+milk
+chocolate
+apple
+juice
+bread
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |:
